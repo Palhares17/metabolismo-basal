@@ -107,7 +107,7 @@ label {
 }
 
 body::-webkit-scrollbar {
-	width: 12px; /* width of the entire scrollbar */
+	width: 8px; /* width of the entire scrollbar */
 }
 
 body::-webkit-scrollbar-track {
@@ -116,5 +116,5 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
 	background-image: linear-gradient(0deg, #ff7373, #fddb33 100%); /* color of the scroll thumb */
-	border-radius: 20px; /* roundness of the scroll thumb */
+	border-radius: 10px; /* roundness of the scroll thumb */
 }
